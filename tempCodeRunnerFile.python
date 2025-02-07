@@ -1,0 +1,7 @@
+from turtle import *
+def something(n):
+    for i in range(4):
+        forward(n)
+        left(90)
+
+something(100)
